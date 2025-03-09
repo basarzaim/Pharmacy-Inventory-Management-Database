@@ -39,8 +39,7 @@ The database consists of **11 tables**, structured with **Primary Keys (PK)** an
 ## 📊 Entity-Relationship (ER) Diagram
 The ER diagram represents the entities and their relationships.
 
-![ER Diagram](ER_DIAGRAM.pdf)
-
+![ER Diagram](er.png)
 ---
 
 ## 🔨 SQL Queries
