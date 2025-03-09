@@ -56,7 +56,7 @@ CREATE TABLE Pharmacy (
 );
 ```
 
-(View all table creation queries in create_tables.sql[])
+(View all table creation queries in create_tables.sql[createtables.sql])
 
 ---
 
