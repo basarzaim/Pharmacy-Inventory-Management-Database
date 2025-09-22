@@ -87,7 +87,7 @@ cd Pharmacy-Inventory-Management-Database
 SELECT * FROM Pharmacy;
 ```
 
-## 🔜 Future Work (Phase 2)
+## 🔜 Phase 2
 Implement advanced queries (e.g., JOINs, aggregations)
 Develop a GUI interface
 Add stored procedures and triggers
